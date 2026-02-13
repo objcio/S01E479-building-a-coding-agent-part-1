@@ -1,0 +1,33 @@
+{
+  "originHash" : "922f84541a8c5887f85d89d6a79518ddb35b88e6e5b3b3711ff9a9049818f58e",
+  "pins" : [
+    {
+      "identity" : "openai",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MacPaw/OpenAI.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "4ed3ea99ff9dfd2a760509ddb31020f4b153ef93"
+      }
+    },
+    {
+      "identity" : "swift-http-types",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-http-types",
+      "state" : {
+        "revision" : "45eb0224913ea070ec4fba17291b9e7ecf4749ca",
+        "version" : "1.5.1"
+      }
+    },
+    {
+      "identity" : "swift-openapi-runtime",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-openapi-runtime",
+      "state" : {
+        "revision" : "7cdf33371bf89b23b9cf4fd3ce8d3c825c28fbe8",
+        "version" : "1.9.0"
+      }
+    }
+  ],
+  "version" : 3
+}
